@@ -72,15 +72,6 @@ input, select, textarea {
 	appearance: none;
 }
 
-figure {
-  display: table;
-}
-figcaption {
-  display: table-caption;
-  caption-side: bottom;
-}
-
-
 /* Basic */
 
 	@-ms-viewport {
